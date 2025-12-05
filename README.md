@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0202-happy-number) |
+| [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+## String
+|  |
+| ------- |
+| [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
 <!---LeetCode Topics End-->
