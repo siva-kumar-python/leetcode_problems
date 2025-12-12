@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0724-find-pivot-index](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0029-divide-two-integers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0202-happy-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
