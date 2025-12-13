@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3606-coupon-code-validator](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0202-happy-number) |
 | [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
+| [3606-coupon-code-validator](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3606-coupon-code-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
+| [3606-coupon-code-validator](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3606-coupon-code-validator) |
 ## Sorting
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3606-coupon-code-validator](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3606-coupon-code-validator) |
 ## Counting
 |  |
 | ------- |
