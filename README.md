@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0724-find-pivot-index](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0724-find-pivot-index) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0202-happy-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
