@@ -110,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
