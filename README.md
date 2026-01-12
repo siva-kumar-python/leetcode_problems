@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3169-count-days-without-meetings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3169-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3606-coupon-code-validator) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3169-count-days-without-meetings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3169-count-days-without-meetings) |
 | [3606-coupon-code-validator](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3606-coupon-code-validator) |
 ## Counting
 |  |
