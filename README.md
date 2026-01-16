@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0202-happy-number) |
+| [0859-buddy-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0859-buddy-strings) |
 | [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
 | [3606-coupon-code-validator](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3606-coupon-code-validator) |
 ## Two Pointers
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0859-buddy-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0859-buddy-strings) |
 | [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
