@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3606-coupon-code-validator](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3606-coupon-code-validator) |
 ## Sorting
 |  |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
