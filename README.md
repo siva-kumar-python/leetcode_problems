@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Database
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
+## Simulation
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
