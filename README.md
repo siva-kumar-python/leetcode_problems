@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2465-number-of-distinct-averages](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2974-minimum-number-game](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2974-minimum-number-game) |
 | [3169-count-days-without-meetings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3169-count-days-without-meetings) |
@@ -65,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0202-happy-number) |
 | [0859-buddy-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0859-buddy-strings) |
 | [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
+| [2465-number-of-distinct-averages](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [3606-coupon-code-validator](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3606-coupon-code-validator) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [2465-number-of-distinct-averages](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2465-number-of-distinct-averages](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [2974-minimum-number-game](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2974-minimum-number-game) |
 | [3169-count-days-without-meetings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3169-count-days-without-meetings) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
