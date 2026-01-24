@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1837-sum-of-digits-in-base-k](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1837-sum-of-digits-in-base-k) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-convert-the-temperature](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2469-convert-the-temperature) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
