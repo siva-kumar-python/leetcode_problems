@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0636-exclusive-time-of-functions](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0636-exclusive-time-of-functions) |
 | [0724-find-pivot-index](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0636-exclusive-time-of-functions) |
 ## Number Theory
 |  |
 | ------- |
