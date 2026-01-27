@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1837-sum-of-digits-in-base-k](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1837-sum-of-digits-in-base-k) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-convert-the-temperature](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2469-convert-the-temperature) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -212,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
