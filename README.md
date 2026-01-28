@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1390-four-divisors) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0202-happy-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1352-product-of-the-last-k-numbers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Ordered Set
 |  |
@@ -222,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
