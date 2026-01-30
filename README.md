@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2363-merge-similar-items) |
 | [2465-number-of-distinct-averages](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2974-minimum-number-game](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2974-minimum-number-game) |
 | [3169-count-days-without-meetings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3169-count-days-without-meetings) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2363-merge-similar-items](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2363-merge-similar-items) |
 | [2465-number-of-distinct-averages](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3606-coupon-code-validator](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3606-coupon-code-validator) |
 ## Two Pointers
