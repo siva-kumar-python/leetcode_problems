@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0202-happy-number) |
+| [0677-map-sum-pairs](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0677-map-sum-pairs) |
 | [0859-buddy-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0859-buddy-strings) |
 | [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1865-finding-pairs-with-a-certain-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0677-map-sum-pairs](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0677-map-sum-pairs) |
 | [0859-buddy-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0859-buddy-strings) |
 | [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0677-map-sum-pairs](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0677-map-sum-pairs) |
 | [1352-product-of-the-last-k-numbers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Ordered Set
@@ -244,5 +247,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0677-map-sum-pairs](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0677-map-sum-pairs) |
 | [3597-partition-string](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3597-partition-string) |
 <!---LeetCode Topics End-->
