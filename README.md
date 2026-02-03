@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0202-happy-number) |
 | [0677-map-sum-pairs](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0677-map-sum-pairs) |
 | [0859-buddy-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0859-buddy-strings) |
