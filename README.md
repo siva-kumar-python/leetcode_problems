@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2974-minimum-number-game) |
 | [3169-count-days-without-meetings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3169-count-days-without-meetings) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3379-transformed-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3606-coupon-code-validator) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2974-minimum-number-game](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2974-minimum-number-game) |
+| [3379-transformed-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3379-transformed-array) |
 | [3597-partition-string](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3597-partition-string) |
 ## Sliding Window
 |  |
