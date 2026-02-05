@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2363-merge-similar-items) |
 | [2465-number-of-distinct-averages](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2643-row-with-maximum-ones](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2643-row-with-maximum-ones) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2974-minimum-number-game](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2974-minimum-number-game) |
 | [3169-count-days-without-meetings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3169-count-days-without-meetings) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2643-row-with-maximum-ones](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2643-row-with-maximum-ones) |
 ## Database
 |  |
 | ------- |
