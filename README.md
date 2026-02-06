@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3827-count-monobit-integers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3827-count-monobit-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0677-map-sum-pairs](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0677-map-sum-pairs) |
 | [3597-partition-string](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3597-partition-string) |
+## Enumeration
+|  |
+| ------- |
+| [3827-count-monobit-integers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3827-count-monobit-integers) |
 <!---LeetCode Topics End-->
