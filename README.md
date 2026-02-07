@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1122-relative-sort-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0677-map-sum-pairs) |
 | [0859-buddy-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0859-buddy-strings) |
 | [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
+| [1122-relative-sort-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2363-merge-similar-items](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2363-merge-similar-items) |
 | [2465-number-of-distinct-averages](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Stack
 |  |
