@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0636-exclusive-time-of-functions) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Number Theory
 |  |
 | ------- |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3827-count-monobit-integers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3827-count-monobit-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
