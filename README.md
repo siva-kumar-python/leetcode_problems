@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3379-transformed-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3484-design-spreadsheet](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3484-design-spreadsheet) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3637-trionic-array-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3484-design-spreadsheet](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3484-design-spreadsheet) |
 | [3597-partition-string](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3597-partition-string) |
 | [3606-coupon-code-validator](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3606-coupon-code-validator) |
 ## Two Pointers
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3484-design-spreadsheet](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3484-design-spreadsheet) |
 | [3597-partition-string](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3597-partition-string) |
 | [3606-coupon-code-validator](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3606-coupon-code-validator) |
 ## Sorting
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2643-row-with-maximum-ones](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2643-row-with-maximum-ones) |
+| [3484-design-spreadsheet](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3484-design-spreadsheet) |
 ## Database
 |  |
 | ------- |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0677-map-sum-pairs) |
 | [1352-product-of-the-last-k-numbers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [3484-design-spreadsheet](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3484-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
