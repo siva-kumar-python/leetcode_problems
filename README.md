@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3484-design-spreadsheet](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3484-design-spreadsheet) |
