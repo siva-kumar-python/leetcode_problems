@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2465-number-of-distinct-averages](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-design-spreadsheet](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3484-design-spreadsheet) |
 | [3597-partition-string](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3597-partition-string) |
 | [3606-coupon-code-validator](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3606-coupon-code-validator) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2974-minimum-number-game) |
 | [3379-transformed-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3379-transformed-array) |
 | [3597-partition-string](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3597-partition-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
