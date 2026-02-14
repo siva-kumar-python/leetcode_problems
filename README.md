@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1837-sum-of-digits-in-base-k](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1837-sum-of-digits-in-base-k) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2396-strictly-palindromic-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2469-convert-the-temperature) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2396-strictly-palindromic-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 | [2465-number-of-distinct-averages](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
