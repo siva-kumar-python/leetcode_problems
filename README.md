@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0202-happy-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0677-map-sum-pairs](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0677-map-sum-pairs) |
 | [0859-buddy-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0859-buddy-strings) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0067-add-binary) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2974-minimum-number-game](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2974-minimum-number-game) |
 | [3379-transformed-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3379-transformed-array) |
