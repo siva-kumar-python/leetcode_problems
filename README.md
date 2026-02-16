@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -296,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
