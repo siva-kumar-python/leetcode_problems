@@ -1,9 +1,10 @@
 class Solution:
     def toggleLightBulbs(self, bulbs: list[int]) -> list[int]:
-        b=[]
-        for i in bulbs:
-            if i not in b:
-                b.append(i)
+        # b=[]
+        # for i in bulbs:
+        #     if i not in b:
+        #         b.append(i)
+        b=set(bulbs)
         
         ans=[]
         for i in b:
@@ -11,5 +12,5 @@ class Solution:
             
             if c%2==1:
                 ans.append(i)
-            ans.sort()
+        ans.sort()
         return ans
