@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0636-exclusive-time-of-functions) |
 | [0724-find-pivot-index](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0677-map-sum-pairs](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0677-map-sum-pairs) |
 | [0859-buddy-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0859-buddy-strings) |
 | [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [1352-product-of-the-last-k-numbers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
