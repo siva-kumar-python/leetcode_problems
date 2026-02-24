@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2057-smallest-index-with-equal-value) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2363-merge-similar-items](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2363-merge-similar-items) |
 | [2465-number-of-distinct-averages](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3484-design-spreadsheet](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3484-design-spreadsheet) |
