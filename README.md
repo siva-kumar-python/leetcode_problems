@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3827-count-monobit-integers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3827-count-monobit-integers) |
 ## Linked List
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2974-minimum-number-game](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2974-minimum-number-game) |
 | [3379-transformed-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/3379-transformed-array) |
