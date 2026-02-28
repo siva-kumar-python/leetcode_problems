@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/siva-kumar-python/leetcode_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1323-maximum-69-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1323-maximum-69-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1492-the-kth-factor-of-n) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
