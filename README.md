@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/siva-kumar-python/leetcode_problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1323-maximum-69-number](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/siva-kumar-python/leetcode_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
